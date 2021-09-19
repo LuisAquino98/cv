@@ -1,2 +1,2 @@
-# cv
-http://40.121.38.209/practica1.html
+Curriculum Vitae luis aquino
+https://luisaquino98.github.io/cv/
